@@ -1,0 +1,86 @@
+# .gitignore for big_data_cleaning project
+# ==================================================
+# General Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+pip-wheel-metadata/
+
+# Virtual environment
+.env
+.venv/
+venv/
+env/
+ENV/
+venv.bak/
+venv.old/
+
+# PyEnv / poetry / pipenv
+.python-version
+poetry.lock
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Notebook outputs (optional: do not ignore .ipynb itself if you want to keep notebooks)
+# Uncomment the next line to ignore executed notebooks with outputs:
+# *.ipynb
+
+# Data directories (large/generated outputs) - ignore to avoid committing large data
+event_data/
+event_data_geocodio/
+event_data_latlng/
+event_data_normalized/
+event_data_with_parent_categories/
+
+# If you want to keep some smaller csv/json sample files, add them to the repo, otherwise
+# the following lines will ignore CSV/JSON across the repo — comment them if not desired.
+# *.csv
+# *.json
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Test / coverage
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.coverage
+coverage.xml
+htmlcov/
+
+# Secrets and configs
+*.env.local
+*.env.*.local
+secrets.yaml
+credentials.json
+*.pem
+*.key
+
+# Databases
+*.db
+*.sqlite3
+
+# End of file
