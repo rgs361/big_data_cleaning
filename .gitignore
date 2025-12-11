@@ -36,12 +36,12 @@ poetry.lock
 # Uncomment the next line to ignore executed notebooks with outputs:
 # *.ipynb
 
-# Data directories (large/generated outputs) - ignore to avoid committing large data
-event_data/
-event_data_geocodio/
-event_data_latlng/
-event_data_normalized/
-event_data_with_parent_categories/
+# # Data directories (large/generated outputs) - ignore to avoid committing large data
+# event_data/
+# event_data_geocodio/
+# event_data_latlng/
+# event_data_normalized/
+# event_data_with_parent_categories/
 
 # If you want to keep some smaller csv/json sample files, add them to the repo, otherwise
 # the following lines will ignore CSV/JSON across the repo — comment them if not desired.
