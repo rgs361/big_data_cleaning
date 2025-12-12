@@ -383,8 +383,78 @@ CATEGORY_MAPPING = {
     "Anthropology": "Other / Miscellaneous", "Politics": "Other / Miscellaneous", "Government": "Other / Miscellaneous",
     "Law": "Other / Miscellaneous", "Legal": "Other / Miscellaneous", "Crime": "Other / Miscellaneous",
     "True Crime": "Other / Miscellaneous", "Mystery": "Other / Miscellaneous", "Scary Movies": "Other / Miscellaneous",
-    "Horror Films": "Other / Miscellaneous", "Lawn closure": "Other / Miscellaneous", "Closure": "Other / Miscellaneous"
+    "Horror Films": "Other / Miscellaneous", "Lawn closure": "Other / Miscellaneous", "Closure": "Other / Miscellaneous",
+
+    # Eventbrite Mappings
+    "Accessories": "Arts & Culture", "Adult": "Other / Miscellaneous", "After School Care": "Family & Education",
+    "Alternative": "Music & Performance", "Aminah Imani": "Arts & Culture", "Anime": "Games & Hobbies",
+    "Anime/Comics": "Games & Hobbies", "Appearance or Signing": "Arts & Culture", "Attraction": "Travel & Outdoor",
+    "Auguste White": "Music & Performance", "Auto, Boat & Air": "Games & Hobbies", "Baby": "Family & Education",
+    "Ballet": "Arts & Culture", "Bar": "Food & Drink", "Bar crawl": "Food & Drink", "Beauty": "Health & Wellness",
+    "Biotech": "Science & Technology", "Blues & Jazz": "Music & Performance", "Boat": "Travel & Outdoor",
+    "Books": "Arts & Culture", "Brad Howe": "Arts & Culture", "Business & Professional": "Business & Career",
+    "Camp, Trip, or Retreat": "Travel & Outdoor", "Career": "Business & Career", "Carmen Christopher": "Arts & Culture",
+    "Certification": "Business & Career", "Certified": "Business & Career", "Channukah": "Spirituality & Religion",
+    "Charity & Causes": "Community & Environment", "Cheese": "Food & Drink", "Children & Youth": "Family & Education",
+    "Chocolate": "Food & Drink", "Christianity": "Spirituality & Religion", "Christmas": "Spirituality & Religion",
+    "City & town": "Community & Environment", "City/Town": "Community & Environment", "Class, Training, or Workshop": "Family & Education",
+    "Classical": "Music & Performance", "Comedy": "Arts & Culture", "Community & Culture": "Community & Environment",
+    "Concert or Performance": "Music & Performance", "Conference": "Business & Career", "Convention": "Business & Career",
+    "Country": "Music & Performance", "County": "Community & Environment", "Craft": "Arts & Culture",
+    "Crawl": "Food & Drink", "Cuisine": "Food & Drink", "Culinary": "Food & Drink", "Cultural": "Arts & Culture",
+    "Dance": "Arts & Culture", "Design": "Arts & Culture", "Dinner or Gala": "Social & Networking",
+    "Drink": "Food & Drink", "Education": "Family & Education", "Electronic": "Music & Performance",
+    "Environment": "Community & Environment", "Esports": "Games & Hobbies", "Exercise": "Sports & Fitness",
+    "Exhibition": "Arts & Culture", "Family & Education": "Family & Education", "Fashion": "Arts & Culture",
+    "Festival or Fair": "Community & Environment", "Film, Media & Entertainment": "Arts & Culture",
+    "Fitness": "Sports & Fitness", "Folk": "Music & Performance", "Food": "Food & Drink",
+    "Food & Drink": "Food & Drink", "Football": "Sports & Fitness", "Fundraiser": "Community & Environment",
+    "Game or Competition": "Games & Hobbies", "Gaming": "Games & Hobbies", "Government": "Community & Environment",
+    "Government & Politics": "Community & Environment", "Health": "Health & Wellness", "Health & Wellness": "Health & Wellness",
+    "Heritage": "Community & Environment", "Hip Hop / Rap": "Music & Performance", "History": "Arts & Culture",
+    "Hobbies": "Games & Hobbies", "Holiday": "Community & Environment", "Home & Lifestyle": "Other / Miscellaneous",
+    "Improv": "Arts & Culture", "Investment": "Business & Career", "Jazz": "Music & Performance",
+    "Language": "Family & Education", "Latin": "Music & Performance", "Lecture": "Family & Education",
+    "Literature & Writing": "Arts & Culture", "Media": "Arts & Culture", "Medical": "Health & Wellness",
+    "Meeting or Networking Event": "Business & Career", "Mental Health": "Health & Wellness",
+    "Music": "Music & Performance", "Musical": "Music & Performance", "Networking": "Business & Career",
+    "New Age": "Spirituality & Religion", "Non-profit & NGO": "Community & Environment", "Opera": "Music & Performance",
+    "Other": "Other / Miscellaneous", "Outdoor": "Travel & Outdoor", "Painting": "Arts & Culture",
+    "Parenting": "Family & Education", "Party or Social Gathering": "Social & Networking", "Performance": "Arts & Culture",
+    "Performing Arts": "Arts & Culture", "Personal Health": "Health & Wellness", "Pets": "Other / Miscellaneous",
+    "Photography": "Arts & Culture", "Pop": "Music & Performance", "Professional": "Business & Career",
+    "Psychology": "Science & Technology", "R&B": "Music & Performance", "Race or Endurance Event": "Sports & Fitness",
+    "Rally": "Community & Environment", "Real Estate": "Business & Career", "Reggae": "Music & Performance",
+    "Religion & Spirituality": "Spirituality & Religion", "Religious": "Spirituality & Religion",
+    "Rock": "Music & Performance", "Running": "Sports & Fitness", "Sales & Marketing": "Business & Career",
+    "Science": "Science & Technology", "Science & Tech": "Science & Technology", "Screening": "Arts & Culture",
+    "Seminar": "Family & Education", "Seminar or Talk": "Family & Education", "Shopping": "Other / Miscellaneous",
+    "Show": "Arts & Culture", "Social": "Social & Networking", "Spirituality": "Spirituality & Religion",
+    "Sports": "Sports & Fitness", "Sports & Fitness": "Sports & Fitness", "Startups & Small Business": "Business & Career",
+    "Technology": "Science & Technology", "Theatre": "Arts & Culture", "Tour": "Travel & Outdoor",
+    "Tournament": "Games & Hobbies", "Travel & Outdoor": "Travel & Outdoor", "Visual Arts": "Arts & Culture",
+    "Volunteering": "Community & Environment", "Walk": "Sports & Fitness", "Wellness": "Health & Wellness",
+    "Wine": "Food & Drink", "Workshop": "Family & Education", "Yoga": "Health & Wellness", "Youth": "Family & Education"
 }
+
+# Priority list for parent categories (Lower index = Higher priority)
+# We want to favor specific categories over broad ones like "Community & Environment" or "Social & Networking"
+PARENT_PRIORITY = [
+    "Music & Performance",
+    "Sports & Fitness",
+    "Food & Drink",
+    "Arts & Culture",
+    "Science & Technology",
+    "Games & Hobbies",
+    "Health & Wellness",
+    "Spirituality & Religion",
+    "Family & Education",
+    "Business & Career",
+    "Travel & Outdoor",
+    "Social & Networking",
+    "Community & Environment",
+    "Other / Miscellaneous"
+]
 
 def get_parent_category(category_input):
     """
@@ -396,12 +466,19 @@ def get_parent_category(category_input):
 
     # Handle list of categories (e.g. from Meetup)
     if isinstance(category_input, list):
-        # Try to find the first valid mapping
+        possible_parents = set()
         for cat in category_input:
             if cat in CATEGORY_MAPPING:
-                return CATEGORY_MAPPING[cat]
-        # If no mapping found, return Other
-        return "Other / Miscellaneous"
+                possible_parents.add(CATEGORY_MAPPING[cat])
+        
+        if not possible_parents:
+            return "Other / Miscellaneous"
+            
+        # Sort possible parents by priority index
+        # If a parent is not in the priority list (shouldn't happen), put it at the end
+        sorted_parents = sorted(list(possible_parents), key=lambda x: PARENT_PRIORITY.index(x) if x in PARENT_PRIORITY else 999)
+        
+        return sorted_parents[0]
     
     # Handle single string
     if isinstance(category_input, str):
@@ -425,7 +502,7 @@ def process_files():
     files_config = [
         {
             'filename': 'eventbrite_events_normalized.json',
-            'field': 'category'
+            'field': 'Categories'
         },
         {
             'filename': 'meetup_events_normalized.json',

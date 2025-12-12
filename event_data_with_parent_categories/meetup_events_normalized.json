@@ -27,7 +27,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Lunch & Learn: Building Trust in AI-Generated Terraform Fixes",
@@ -57,7 +57,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Community & Environment"
+        "parent_category": "Spirituality & Religion"
     },
     {
         "Title": "Coworking Session & Job Search/Salary Negotiation Workshop @ Serendipity Labs",
@@ -87,7 +87,7 @@
         ],
         "lat": 40.707606,
         "lng": -74.010056,
-        "parent_category": "Social & Networking"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "Happy Birthday Jane!",
@@ -206,7 +206,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "NYC Ages 21-40s Board Game Event",
@@ -227,7 +227,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Games & Hobbies"
     },
     {
         "Title": "Finance Networking Event NYC: WAGMI-Connect",
@@ -253,7 +253,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Tabletop Tuesday",
@@ -275,7 +275,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Harry Potter Caroling",
@@ -290,7 +290,7 @@
         ],
         "lat": 40.703125,
         "lng": -74.010852,
-        "parent_category": "Arts & Culture"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Veg Night Out! Vegetarian/Vegan Holiday Party at Beauty & Essex",
@@ -305,7 +305,7 @@
         ],
         "lat": 40.714665,
         "lng": -73.990202,
-        "parent_category": "Community & Environment"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Jersey City Virtual Speed Dating Session",
@@ -320,7 +320,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Family & Education"
     },
     {
         "Title": "3rd Annual Holiday Grinchfest Party",
@@ -335,7 +335,7 @@
         ],
         "lat": 40.692144,
         "lng": -73.910676,
-        "parent_category": "Travel & Outdoor"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Fry, Fry Baby: Air-fryer Tips and Tricks Nutrition Workshop",
@@ -383,7 +383,7 @@
         ],
         "lat": 40.716292,
         "lng": -74.007738,
-        "parent_category": "Arts & Culture"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Goodfellas (1990) Film Discussion",
@@ -462,7 +462,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "AI/ML Conversations Meetup:Smart CPU Offloading for Scalable LLM Inference",
@@ -492,7 +492,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Sports & Fitness"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Afternoon Silent Retreat, Sunday December 14, 1pm-5pm (In-person only)",
@@ -507,7 +507,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Liberty Science Center After Dark",
@@ -547,7 +547,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Family & Education"
     },
     {
         "Title": "The Twelth Meetup: \ud83c\udf84 HOLIDAY",
@@ -562,7 +562,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Community & Environment"
+        "parent_category": "Social & Networking"
     },
     {
         "Title": "FoundersClub: Clarity Exchange w MaudieV\u2014connect w mental health pros/partners",
@@ -587,7 +587,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Let\u2019s Heal Together ",
@@ -617,7 +617,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "AIxUX Virtual Summit 2025",
@@ -632,7 +632,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Science & Technology"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "December 2025 NYAPM Happy Hour",
@@ -672,7 +672,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Health & Wellness"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Neighborhood Reading Series; A CHRISTMAS CAROL",
@@ -785,7 +785,7 @@
         ],
         "lat": 40.744052,
         "lng": -73.991967,
-        "parent_category": "Social & Networking"
+        "parent_category": "Travel & Outdoor"
     },
     {
         "Title": "Improv & Mistletoe - Live Comedy Improv Show",
@@ -815,7 +815,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "TOPSPIN - The NYC Ping Pong Meetup Group",
@@ -860,7 +860,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "The Agony of Eros \u2014 Desire, Otherness, and the Loss of Depth in Modern Life",
@@ -918,7 +918,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Business & Career"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Make Art and Crafts together in the Bronx",
@@ -950,7 +950,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Start your weekend at New York Historical's library",
@@ -980,7 +980,7 @@
         ],
         "lat": 40.675028,
         "lng": -74.010238,
-        "parent_category": "Social & Networking"
+        "parent_category": "Travel & Outdoor"
     },
     {
         "Title": "Friday Night Board Games in Brooklyn",
@@ -1041,7 +1041,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Let's go to see the Dyker Heights Lights!!!",
@@ -1066,7 +1066,7 @@
         ],
         "lat": 40.712415,
         "lng": -74.004865,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Zombies Christmas Apocalypse (2024): Bad Movie Watch Party",
@@ -1095,7 +1095,7 @@
         ],
         "lat": 40.652658,
         "lng": -73.962915,
-        "parent_category": "Food & Drink"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "\u26bd\ufe0f\u2728\ud83c\udf19@Gensevoort \ud83e\udd45Master League (Advanced football Session- INVITE ONLY)",
@@ -1147,7 +1147,7 @@
         ],
         "lat": 43.20886,
         "lng": -75.383365,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Intent-Based Leadership with Doug Hensch",
@@ -1162,7 +1162,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Business & Career"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "MBTI Mingle & Afterparty Hosts: \u00a5, Margarita-INFP, Mike-INFJ",
@@ -1177,7 +1177,7 @@
         ],
         "lat": 42.913397,
         "lng": -75.596272,
-        "parent_category": "Social & Networking"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Lets Dine NYC: at Carmines ",
@@ -1262,7 +1262,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Family & Education"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "SoulSessions (Pop-Up Edition)",
@@ -1325,7 +1325,7 @@
         ],
         "lat": 40.734874,
         "lng": -73.991991,
-        "parent_category": "Arts & Culture"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Central Park Saturday Run, Walk and Coffee Talk",
@@ -1339,7 +1339,7 @@
         ],
         "lat": 40.765123,
         "lng": -73.974935,
-        "parent_category": "Social & Networking"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "From Socially Shy to Confident: Master the Art of Connection",
@@ -1354,7 +1354,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Dinner at Berimbau",
@@ -1384,7 +1384,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Central Park beginner Runners",
@@ -1416,7 +1416,7 @@
         ],
         "lat": 40.5572,
         "lng": -73.92511,
-        "parent_category": "Travel & Outdoor"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "SpeakIt Language Exchange: Meet friends, practice, and share your language! ",
@@ -1431,7 +1431,7 @@
         ],
         "lat": 40.702322,
         "lng": -73.922357,
-        "parent_category": "Social & Networking"
+        "parent_category": "Family & Education"
     },
     {
         "Title": "Mindful Dating\u2122 Workshop. Immersive practice for steady love",
@@ -1446,7 +1446,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "55+ Dating - a Conversation",
@@ -1465,7 +1465,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Bonus Meeting: Hierarchy 2: Strength of the Few by James Islington",
@@ -1588,7 +1588,7 @@
         ],
         "lat": 40.797925,
         "lng": -73.951698,
-        "parent_category": "Social & Networking"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "ADHD and AuADHD: Diagnosis, Treatments and Support - Tues, Dec 9, 7:00 - 8:30pm",
@@ -1622,7 +1622,7 @@
         ],
         "lat": 40.704126,
         "lng": -73.932122,
-        "parent_category": "Social & Networking"
+        "parent_category": "Games & Hobbies"
     },
     {
         "Title": "Writers Meetup & Critique @OUTRO NYC - Bring pages from your screenplay or novel",
@@ -1679,7 +1679,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "African film- So Long a Letter",
@@ -1691,7 +1691,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Central Park Tuesday Evening Run",
@@ -1705,7 +1705,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "Hypnotherapy for Depression",
@@ -1730,7 +1730,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Health & Wellness"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Williamsburg French Fridays !",
@@ -1888,7 +1888,7 @@
         ],
         "lat": 40.600703,
         "lng": -73.961679,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "December 2025 Knit+Wine Night ",
@@ -1917,7 +1917,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Community & Environment"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "The Creative Writing Cafe",
@@ -1954,7 +1954,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Arts & Culture"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "In-Person Writing Group at BedStuy's Bedford Library!",
@@ -1987,7 +1987,7 @@
         ],
         "lat": 40.733771,
         "lng": -74.000314,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "[Tuesday] Discussion: Apology",
@@ -2002,7 +2002,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Dec 25' Bar Baseball",
@@ -2017,7 +2017,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "December Portuguese meetup/ Encontro de portugu\u00eas ",
@@ -2032,7 +2032,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Family & Education"
     },
     {
         "Title": "December Book Club",
@@ -2094,7 +2094,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Play board games and meet cool people!",
@@ -2132,7 +2132,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "December 2025 Game Night",
@@ -2147,7 +2147,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Games & Hobbies"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "How to Launch Your Career in Cyber Security in 2026",
@@ -2162,7 +2162,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "The Legendary Holiday Lights of Dyker Heights & Optional Pre-Tour Dinner!",
@@ -2204,7 +2204,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Travel & Outdoor"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "AI for Career Growth: Resumes, Interviews & Personal Branding",
@@ -2306,7 +2306,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Games & Hobbies"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Eleanor Roosevelt - Birthday Celebration and Film History Livestream",
@@ -2390,7 +2390,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Why Do Some Relationships Start Out Promising\u2026 and Crash Fast?",
@@ -2420,7 +2420,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Family & Education"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "\"Why Do Relationships Start Out Promising\u2026 and Then Crash FAST?\u201d ",
@@ -2474,7 +2474,7 @@
         ],
         "lat": 40.720053,
         "lng": -73.99415,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Let's drink wine @ The Tippler! (Chelsea)",
@@ -2503,7 +2503,7 @@
         ],
         "lat": 40.692144,
         "lng": -73.910676,
-        "parent_category": "Travel & Outdoor"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Planning 2026 with Google Gemini: AI Insights to Power Your Strategy",
@@ -2553,7 +2553,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Visit to Rockefeller Center \ud83c\udf84",
@@ -2583,7 +2583,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "AngularNYC - December 2025",
@@ -2729,7 +2729,7 @@
         ],
         "lat": 40.712415,
         "lng": -74.004865,
-        "parent_category": "Social & Networking"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Remembering Diane Keaton",
@@ -2773,7 +2773,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Ancient Philosophy Club \u2014 Nicomachean Ethics Part I",
@@ -2873,7 +2873,7 @@
         ],
         "lat": 40.613058,
         "lng": -74.026858,
-        "parent_category": "Games & Hobbies"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Roofman (2025) Film Discussion",
@@ -2936,7 +2936,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Games & Hobbies"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "40's & Over Mixer (Drink Specials)",
@@ -2969,7 +2969,7 @@
         ],
         "lat": 40.703125,
         "lng": -74.010852,
-        "parent_category": "Family & Education"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Bryant Park Winter Wonderland - Veg*n Dinner & Holiday Visit",
@@ -3032,7 +3032,7 @@
         ],
         "lat": 40.745263,
         "lng": -73.711159,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "K-Town Food Crawl 2: The Finale",
@@ -3107,7 +3107,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Games & Hobbies"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "Astoria to Flushing",
@@ -3207,7 +3207,7 @@
         ],
         "lat": 40.693056,
         "lng": -73.981712,
-        "parent_category": "Family & Education"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Empire Dyker Heights Christmas Lights",
@@ -3263,7 +3263,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "The Long Kiss Goodnight (1996)-Discussion-",
@@ -3313,7 +3313,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Do We Still Know How to Flirt Over 40? \u2014 Free Interactive Discussion",
@@ -3358,7 +3358,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Family & Education"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Adults with ADHD Online Support Group - *Tuesday*, Dec 30 ",
@@ -3418,7 +3418,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "ALL ABOARD! - GROUP TOUR AT THE NEW YORK TRANSIT MUSEUM",
@@ -3433,7 +3433,7 @@
         ],
         "lat": 40.677862,
         "lng": -73.946964,
-        "parent_category": "Family & Education"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Holiday Party at Industry Bar!",
@@ -3448,7 +3448,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Travel & Outdoor"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "Holiday Brunch at La Grande Boucherie",
@@ -3494,7 +3494,7 @@
         ],
         "lat": 40.721111,
         "lng": -73.691875,
-        "parent_category": "Travel & Outdoor"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Build a Profitable Business in One Day with AI",
@@ -3539,7 +3539,7 @@
         ],
         "lat": 40.739479,
         "lng": -73.982902,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Global Coaching Circles - First Monday of the Month",
@@ -3556,7 +3556,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Business & Career"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "NYC Data Exploration with Plotly Studio",
@@ -3586,7 +3586,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "MoMA Free Friday Night - Ruth Asawa Retrospective & More",
@@ -3601,7 +3601,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Arts & Culture"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Azure Static Web Apps for the Enterprise Hosted by Reactor S.",
@@ -3631,7 +3631,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Family & Education"
     },
     {
         "Title": "Dating & Romance & Anxiety",
@@ -3699,7 +3699,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Introduction to dbachecks ~ Jordan Sassi",
@@ -3733,7 +3733,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Arts & Culture"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Perfect Your French and Explore the Work of one of the Leading 18th c. Artists!",
@@ -3755,7 +3755,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Family & Education"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Let's Hangout\u2728\ud83c\udf85\ud83c\udffd\ud83e\uddd1\ud83c\udffe\u200d\ud83c\udf84 SANTA-CON \ud83c\udf85\ud83c\udffd\ud83e\uddd1\ud83c\udffe\u200d\ud83c\udf84 \u2728",
@@ -3869,7 +3869,7 @@
         ],
         "lat": 40.730414,
         "lng": -74.001352,
-        "parent_category": "Family & Education"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Fabulous art (and warmth) at the Met Museum!",
@@ -3892,7 +3892,7 @@
         ],
         "lat": 40.713004,
         "lng": -73.876593,
-        "parent_category": "Travel & Outdoor"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "Build Your Digital Income: My Step-by-Step A.I. & ChatGPT Strategy",
@@ -3926,7 +3926,7 @@
         ],
         "lat": 40.69232,
         "lng": -73.965688,
-        "parent_category": "Social & Networking"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "From Beginner to Bilingual (FREE Masterclass)",
@@ -3985,7 +3985,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Games & Hobbies"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "In person - FX and Options Trading - next to Penn station! - w/zoom*",
@@ -4005,7 +4005,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "CALL FOR PHOTOGRAPHERS",
@@ -4065,7 +4065,7 @@
         ],
         "lat": 40.729964,
         "lng": -73.992134,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "Holiday Party!   Winter Show + UX/UI Master Thesis Show",
@@ -4080,7 +4080,7 @@
         ],
         "lat": 40.769939,
         "lng": -73.982804,
-        "parent_category": "Science & Technology"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Decoding The Truman Show's Hidden Spiritual Messages",
@@ -4135,7 +4135,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Family & Education"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Live CHRISTMAS in PARIS. Notre Dame",
@@ -4178,7 +4178,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "BLAZE >> HOLIGAY SOCIAL",
@@ -4233,7 +4233,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "XR Holiday Party NYC",
@@ -4271,7 +4271,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Games & Hobbies"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Swedish Market + Lunch",
@@ -4335,7 +4335,7 @@
         ],
         "lat": 40.702801,
         "lng": -74.012364,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "FoundersClub: Speed-Matchmaking\u2014find what you need w/ Sunny & Rachel (Mgmt/Ops)",
@@ -4350,7 +4350,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Buddhism 101 - How can we transform our Karma and control our Destiny",
@@ -4365,7 +4365,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Annual Holiday New York City Hike",
@@ -4409,7 +4409,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Can AI and UX Research Co-exist?",
@@ -4424,7 +4424,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Join Us for \"Photographic Visions\" by Judy M. King",
@@ -4470,7 +4470,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "\ud83c\udf32\u2744\ufe0f\ud83d\ude4fQueerly Beloveds gathering - Tuesday 12/16\ud83d\ude4f\u2744\ufe0f\ud83c\udf32",
@@ -4551,7 +4551,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Beyond binding: designing molecules for biological function",
@@ -4566,7 +4566,7 @@
         ],
         "lat": 40.757855,
         "lng": -73.985011,
-        "parent_category": "Family & Education"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "NYVR - December 2025 ",
@@ -4610,7 +4610,7 @@
         ],
         "lat": 40.586739,
         "lng": -73.923859,
-        "parent_category": "Family & Education"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Rule Azure from the Terminal: The Power of AZ CLI",
@@ -4638,7 +4638,7 @@
         ],
         "lat": 40.6331,
         "lng": -73.978135,
-        "parent_category": "Social & Networking"
+        "parent_category": "Family & Education"
     },
     {
         "Title": "In-person writing night at Nook! ",
@@ -4710,7 +4710,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Make friends over pub and grub!",
@@ -4750,7 +4750,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Family & Education"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Mens Indoor Pick-up Basketball in Long Island City",
@@ -4807,7 +4807,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Food & Drink"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Self-Discipline Without Force: Making Transformation Easy",
@@ -4822,7 +4822,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Holiday Phone Photo Walk / Frolic ",
@@ -4836,7 +4836,7 @@
         ],
         "lat": 40.757935,
         "lng": -73.679731,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Waitlist: Gay Matchmaking Mixer",
@@ -4860,7 +4860,7 @@
         ],
         "lat": 40.711839,
         "lng": -73.999096,
-        "parent_category": "Social & Networking"
+        "parent_category": "Family & Education"
     },
     {
         "Title": "Mindful Dating\u2122 Webinar. Attract love without losing yourself",
@@ -4990,7 +4990,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Use AI to Generate Easy, Ongoing Income",
@@ -5019,7 +5019,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Exhile and the Kingdom by Albert Camus",
@@ -5070,7 +5070,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "55+ Dating - a Conversation",
@@ -5089,7 +5089,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Meetup One Hundred and Thirty Six: Zeno's Conscience",
@@ -5123,7 +5123,7 @@
         ],
         "lat": 40.703375,
         "lng": -74.014411,
-        "parent_category": "Social & Networking"
+        "parent_category": "Games & Hobbies"
     },
     {
         "Title": "Find Your Inner Strength: Move Past Fear, Self Doubt & Overthinking ",
@@ -5153,7 +5153,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Spirituality & Religion"
     },
     {
         "Title": "The Discourses of Epictetus: 2, Role ethics",
@@ -5167,7 +5167,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "UX Happy Hour irl (open to all levels)",
@@ -5203,7 +5203,7 @@
         ],
         "lat": 40.751222,
         "lng": -73.977424,
-        "parent_category": "Community & Environment"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Build Confidence for 2026: From Overthinking to Impact",
@@ -5218,7 +5218,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Business & Career"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Let's Hangout\u2728\ud83c\udf84\ud83c\udf85\ud83c\udffdUgly Christmas Sweater Brunch \ud83c\udf84\ud83c\udf85\ud83c\udffd \u2728",
@@ -5233,7 +5233,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "AI Networking Event: Multi -Vertical NYC Mixer",
@@ -5259,7 +5259,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Tabletop Tuesday",
@@ -5281,7 +5281,7 @@
         ],
         "lat": 40.716393,
         "lng": -73.98347,
-        "parent_category": "Social & Networking"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Modern Georgian fare @ Meama ",
@@ -5329,7 +5329,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Games & Hobbies"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Christmas Day circular around Central Park, approximately 5 miles",
@@ -5372,7 +5372,7 @@
         ],
         "lat": 40.713998,
         "lng": -74.013313,
-        "parent_category": "Community & Environment"
+        "parent_category": "Family & Education"
     },
     {
         "Title": "Adults with ADHD Online Support Group - *Tuesday* Dec 30, 2025",
@@ -5387,7 +5387,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Family & Education"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Eric Rohmer's My Night at Maud's. At Metrograph, Dec 13 at 3pm.",
@@ -5437,7 +5437,7 @@
         ],
         "lat": 40.704837,
         "lng": -74.012608,
-        "parent_category": "Community & Environment"
+        "parent_category": "Travel & Outdoor"
     },
     {
         "Title": "Reflect, Reset, Reconnect: A Year in Review with The Emotional Culture Deck",
@@ -5452,7 +5452,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Hamnet by Maggie O'Farrell",
@@ -5467,7 +5467,7 @@
         ],
         "lat": 40.703239,
         "lng": -73.965975,
-        "parent_category": "Arts & Culture"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Chewing Gum Season 1 (2015): Watch Party",
@@ -5516,7 +5516,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Overcoming Social Anxiety to Become Confident in Yourself!",
@@ -5546,7 +5546,7 @@
         ],
         "lat": 40.59864,
         "lng": -73.791652,
-        "parent_category": "Community & Environment"
+        "parent_category": "Travel & Outdoor"
     },
     {
         "Title": "Holiday Brunch @ Woodbines \ud83e\uddd1\u200d\ud83c\udf84",
@@ -5635,7 +5635,7 @@
         ],
         "lat": 40.68627,
         "lng": -74.018642,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Blood on the Clocktower",
@@ -5680,7 +5680,7 @@
         ],
         "lat": 40.884908,
         "lng": -73.892992,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "PRACTICE PUBLIC SPEAKING - Hybrid Meeting",
@@ -5705,7 +5705,7 @@
         ],
         "lat": 40.747255,
         "lng": -73.991707,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Elf (2003): Watch Party",
@@ -5735,7 +5735,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "Let's Hangout\u2728\ud83d\udc40 At the Edge Observation Deck \ud83d\udc40",
@@ -5750,7 +5750,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Travel & Outdoor"
     },
     {
         "Title": "\"The Plague\" by Albert Camus",
@@ -5807,7 +5807,7 @@
         ],
         "lat": 40.590447,
         "lng": -73.928365,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "December Sessions \u2013 \"Monk\"",
@@ -5875,7 +5875,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Make Art and Crafts together ",
@@ -5905,7 +5905,7 @@
         ],
         "lat": 40.788923,
         "lng": -73.825,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Holiday Hangout",
@@ -5920,7 +5920,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Games & Hobbies"
     },
     {
         "Title": "Everyday ARCHAEOLOGY. The Story of Tea",
@@ -5988,7 +5988,7 @@
         ],
         "lat": 40.712415,
         "lng": -74.004865,
-        "parent_category": "Social & Networking"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "NY Nix/Nixpkgs/NixOS Meetup",
@@ -6037,7 +6037,7 @@
         ],
         "lat": 40.720053,
         "lng": -73.99415,
-        "parent_category": "Community & Environment"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Full Moon Meditation \u2014 January",
@@ -6081,7 +6081,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Develop Your Public Speaking Skills While Having Fun! LIVE",
@@ -6096,7 +6096,7 @@
         ],
         "lat": 40.787152,
         "lng": -73.973315,
-        "parent_category": "Business & Career"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "CHELSEA ART GALLERY HOP-MEMBERS APPRECIATION EVENT-LIMITED SPACE",
@@ -6121,7 +6121,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Travel & Outdoor"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "Queer Salsa Classes for Advanced Beginners on Sundays",
@@ -6140,7 +6140,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Central Park Chess Social",
@@ -6158,7 +6158,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "*January* Virtual Meet-up: You are a Badass ",
@@ -6188,7 +6188,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Family & Education"
     },
     {
         "Title": "The AI Operator\u2019s Playbook: How to Scale Your Team and Secure Funding",
@@ -6203,7 +6203,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Thriving or surviving through the holiday season?",
@@ -6244,7 +6244,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Saturday Piano Meetup",
@@ -6292,7 +6292,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Science & Technology"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "NYB Holiday Party",
@@ -6415,7 +6415,7 @@
         ],
         "lat": 40.702801,
         "lng": -74.012364,
-        "parent_category": "Food & Drink"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Afterlife Conversations",
@@ -6430,7 +6430,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "The Rebel by Albert Camus Part 2",
@@ -6478,7 +6478,7 @@
         ],
         "lat": 40.713004,
         "lng": -73.876593,
-        "parent_category": "Social & Networking"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Meditation and Reiki Session",
@@ -6556,7 +6556,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Ladies Hangout \u2014 Secret Santa Edition",
@@ -6601,7 +6601,7 @@
         ],
         "lat": 40.769615,
         "lng": -73.983773,
-        "parent_category": "Social & Networking"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Winter Craft Candle Making Workshop",
@@ -6632,7 +6632,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Science & Technology"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Monday Piano Meetup",
@@ -6691,7 +6691,7 @@
         ],
         "lat": 40.741571,
         "lng": -73.954077,
-        "parent_category": "Social & Networking"
+        "parent_category": "Family & Education"
     },
     {
         "Title": "In-person Crafting and Happy Hour",
@@ -6828,7 +6828,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Science & Technology"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Learn LUCID DREAMING, for Healing, Spiritual Exploration, and Adventure!",
@@ -6892,7 +6892,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Practical Steps: Your Blueprint for Real Online Income",
@@ -6937,7 +6937,7 @@
         ],
         "lat": 40.751222,
         "lng": -73.977424,
-        "parent_category": "Community & Environment"
+        "parent_category": "Spirituality & Religion"
     },
     {
         "Title": "Pop-Up Crafter-HOLIDAYS--Every Kind of Project Welcome!",
@@ -6966,7 +6966,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Queer Women Reading Whatever We Fancy: Nov/Dec book club/holiday party ",
@@ -7019,7 +7019,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "December Concert",
@@ -7083,7 +7083,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "Microsoft GitHub Copilot Masterclass: Learn AI-Powered Coding\u202f ",
@@ -7290,7 +7290,7 @@
         ],
         "lat": 40.704837,
         "lng": -74.012608,
-        "parent_category": "Social & Networking"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Boardgames at Clinton Hall in Midtown East!",
@@ -7312,7 +7312,7 @@
         ],
         "lat": 40.726758,
         "lng": -73.895975,
-        "parent_category": "Games & Hobbies"
+        "parent_category": "Food & Drink"
     },
     {
         "Title": "Free Coworking Session & AI Automation Talk @ Serendipity Labs",
@@ -7373,7 +7373,7 @@
         ],
         "lat": 40.771369,
         "lng": -73.984562,
-        "parent_category": "Business & Career"
+        "parent_category": "Science & Technology"
     },
     {
         "Title": "Food For Thought (F4T)",
@@ -7397,7 +7397,7 @@
         ],
         "lat": 40.75938,
         "lng": -73.674866,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Wellness Thursdays: Breath and Meditation Workshop",
@@ -7427,7 +7427,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Special WEDNESDAY Evening Run @7PM - 3ish miles + SingleCut",
@@ -7492,7 +7492,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "NJ Real Estate Networking + Group Learning + Toy & Coat Drive + Cash Giveaway!",
@@ -7601,7 +7601,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Business & Career"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Silent Night, Deadly Night (2025)",
@@ -7622,7 +7622,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Live Electronic Showcase @ FirstLive",
@@ -7689,7 +7689,7 @@
         ],
         "lat": 40.750422,
         "lng": -73.996328,
-        "parent_category": "Social & Networking"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "Monday Night Soccer  | 6:15pm | NO CLEATS Dress accordingly ",
@@ -7737,7 +7737,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Business & Career"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Brooklyn Old Time Learning Jam in Park Slope Brooklyn",
@@ -7812,7 +7812,7 @@
         ],
         "lat": 40.739479,
         "lng": -73.982902,
-        "parent_category": "Social & Networking"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "December Holiday Jam",
@@ -7854,7 +7854,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Social & Networking"
+        "parent_category": "Music & Performance"
     },
     {
         "Title": "The Wheel Winter Party",
@@ -7899,7 +7899,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Spirituality & Religion"
+        "parent_category": "Health & Wellness"
     },
     {
         "Title": "Zoom (from your home) Book Club - The Extraordinary Life of Sam Hell",
@@ -7939,7 +7939,7 @@
         ],
         "lat": null,
         "lng": null,
-        "parent_category": "Games & Hobbies"
+        "parent_category": "Arts & Culture"
     },
     {
         "Title": "Special THURSDAY Evening Run @7PM - 4ish miles + Focal Point Beer Co",
@@ -7954,7 +7954,7 @@
         ],
         "lat": 40.729964,
         "lng": -73.992134,
-        "parent_category": "Other / Miscellaneous"
+        "parent_category": "Sports & Fitness"
     },
     {
         "Title": "Wellness Thursday: Yoga and Meditation Workshop",
